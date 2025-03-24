@@ -3,7 +3,6 @@ package com.example;
 import java.io.IOException;
 import java.net.http.*;
 import java.net.URI;
-import java.nio.file.Path;
 import java.time.Duration;
 import java.util.HashSet;
 
@@ -26,7 +25,7 @@ public class Main {
         }
 
 
-        String userName = "Abenezer-Daniel-W";
+        String userName = args[0];
 
         String userEvents = "";
 
