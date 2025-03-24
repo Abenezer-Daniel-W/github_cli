@@ -1,6 +1,6 @@
 # Github events CLI
 
-A simple github cli project to look at recent github event, original idea from [roadmap.sh](https://roadmap.sh/projects/task-tracker).
+A simple github cli project to look at recent github event, original idea from [roadmap.sh](https://roadmap.sh/projects/github-user-activity).
 
 ## 🚀 Features
 pass in username and see recent github events like
