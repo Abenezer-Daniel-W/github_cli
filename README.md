@@ -56,10 +56,4 @@ java -cp target/github_action_cli-1.0-SNAPSHOT-jar-with-dependencies.jar com.exa
 
 ```
 
----
-
-## 📝 Example Usage
-```bash
-java -cp target/github_action_cli-1.0-SNAPSHOT.jar com.example.Main github-Username
-```
 
